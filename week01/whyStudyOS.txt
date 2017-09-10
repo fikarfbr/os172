@@ -1,2 +1,6 @@
 #your_github_account
 fikarfbr
+belajar os adalah harus, selain belajar os itu seru
+belajar os juga dibutuhkan dalam memahami cara kerja 
+sebuah komputer dalam menerima perintah melalui software
+operating system.
