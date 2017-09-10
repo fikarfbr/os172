@@ -1,0 +1,5 @@
+	week01
+pada week 01, kita diajarkan untuk kembali login ke badak pada server kawung,
+lalu kita diajarkan untuk melakukan push pull pada repository di github
+kemudian diajarkan beberapa command yang penting pada terminal, 
+singktanya kita diajarkan scripting dasar pada week01 ini.
