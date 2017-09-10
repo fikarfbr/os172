@@ -1,0 +1,4 @@
+	week 0
+pada task week 0 saya belajar  tentang bagaimana menggunakan terminal linux 
+dengan login pada server kawung.cs.ui, kemudian bagaimana mengakses badak.cs.ui
+melalui server kawung tersebut.
