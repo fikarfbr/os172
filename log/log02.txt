@@ -1,2 +1,12 @@
-w01-170914-18-LR-about: separation of security and protection, From: https://en.wikipedia.org/wiki/Separation_of_protection_and_security
-w01-170915-20-LR-about: week-01-protection-security.pdf, From arsip RMS
+w02-170912-20-PS-working on lab02
+w02-170912-20-PS-working on lab02
+w02-170912-16-LR-about: week-01-protection-security.pdf, From arsip RMS
+w02-170912-16-LR-about: week-01-protection-security.pdf, From arsip RMS
+w02-170912-17-LR-about: week-01-protection-security.pdf, From arsip RMS
+w02-170912-17-LR-about: week-01-protection-security.pdf, From arsip RMS
+w02-170913-18-LR-about: separation of security and protection, From: https://en.wikipedia.org/wiki/Separation_of_protection_and_security
+w02-170914-16-LR-about: week-02-learning-c-languange.pdf, From arsip RMS
+w02-170914-16-LR-about: week-02-learning-c-languange.pdf, From arsip RMS
+w02-170914-17-LR-about: week-02-learning-c-languange.pdf, From arsip RMS
+w02-170914-17-LR-about: week-02-learning-c-languange.pdf, From arsip RMS
+
